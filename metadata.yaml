@@ -1,0 +1,30 @@
+_repo: The-Sources-and-Analogues-of-A-Midsummer-night-s-Dream-_15001
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Sidgwick, Frank
+    alias: Steward, B. D.
+    birthdate: 1879
+    deathdate: 1939
+    gutenberg_agent_id: '9317'
+    url: http://www.gutenberg.org/2009/agents/9317
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedy -- Sources'
+- !lcc 'PR'
+- !lcsh 'Fairy plays -- Sources'
+- !lcsh 'Shakespeare, William, 1564-1616. Midsummer night''s dream -- Sources'
+- !lcsh 'Fairies -- Literary collections'
+title: The Sources and Analogues of 'A Midsummer-night's Dream'
+url: http://www.gutenberg.org/ebooks/15001
