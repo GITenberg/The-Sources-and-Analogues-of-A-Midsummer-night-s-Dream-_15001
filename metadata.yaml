@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15001#The-Sources-and-Analogues-of-A-Midsummer-night-s-Dream-
 gutenberg_issued: '2005-02-09'
 gutenberg_type: Text
 identifiers:
